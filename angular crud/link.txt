@@ -1,0 +1,3 @@
+Site from where angular project is in progress
+do not copy this file in project
+https://www.bezkoder.com/angular-10-crud-app/
